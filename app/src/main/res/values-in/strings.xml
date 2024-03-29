@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="cost_of_service">Biaya Layanan</string>
+    <string name="how_was_the_service">Bagaiamana layananya</string>
+    <string name="round_up_tip">Kisaran Tip</string>
+    <string name="tip_amount">Jumlah Tip</string>
+    <string name="calculate">Hitung</string>
+    <string name="amazing_20">Luar Biasa (20%)</string>
+    <string name="good_15">Baik (15%)</string>
+    <string name="ok_15">OK (15%)</string>
+    <string name="bad_5">Buruk (5%)</string>
+</resources>

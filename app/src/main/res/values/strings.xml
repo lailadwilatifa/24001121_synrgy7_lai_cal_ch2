@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Kalkulator</string>
+    <string name="app_name">Calcutor</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="how_was_the_service">How was the service</string>
+    <string name="round_up_tip">Round up tip</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_15">Good (15%)</string>
+    <string name="ok_15">OK (15%)</string>
+    <string name="bad_5">Bad (5%)</string>
 </resources>
